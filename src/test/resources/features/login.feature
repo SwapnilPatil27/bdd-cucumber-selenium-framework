@@ -8,8 +8,3 @@ Feature: PayDocker Login Test
   And User enters password "123456!!"
   And User clicks continue button
   Then Login process executed
-  
-  
-  
-  
-  
