@@ -16,8 +16,3 @@ Feature: PayDocker Login Test
   
   
   
-  
-  
-  
-  
-  
